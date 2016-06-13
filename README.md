@@ -4,6 +4,8 @@ talks
 Lists of materials and slides used during my talks over the years.
 
 #### 2015
+- Build Your Thing In a Weekend. DevFest 2015, Lviv, Ukraine Oct 2015
+- An Unexpected Journey. Droidcon Greece, Thessaloniki, Greece, Sep 2015
 - I Can, But I Won't. Android Developer Days, Ankara, May, 2015
 - Internet of Things and What It Means for Developers. GeekTalks, Ankara, Feb 2015
 
