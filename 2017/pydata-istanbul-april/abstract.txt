@@ -1,0 +1,3 @@
+Teaching Machines to Understand What They See
+
+Humans rely a lot on their visual perception to understand the world. Can machines do the same? In this talk we will briefly go over the basics of machine learning with biologically inspired neural networks. We will then discuss the details of convolutional neural networks and how to use them to understand images.
